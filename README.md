@@ -1,6 +1,5 @@
 # AdaCoalition: Domain-Agnostic Multi-Agent Collaboration
-
-Official code repository for the AAAI 2027 paper:  
+ 
 **"AdaCoalition: Domain-Agnostic Multi-Agent Collaboration with Dynamic Coalition Formation"**
 
 ## 📋 Overview
